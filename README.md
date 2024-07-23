@@ -40,3 +40,5 @@ screen -S avail
 ```
 ./avail-node --chain mainnet --name [name your node] --validator
 ```
+### Kurulum Sonrasında
+[BURADAN](https://telemetry.avail.so/#list/0xb91746b45e0346cc2f815a520b9c6cb4d5c0902af848db0a80f85932d2e8276a) node isminizi arayarak kontrol edebilirsiniz.
